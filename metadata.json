@@ -1,0 +1,5 @@
+{
+  "name": "Sonic Launcher Manager",
+  "description": "Un launcher minimalista per gestire e configurare ROMs di Sonic e RetroArch.",
+  "requestFramePermissions": []
+}
