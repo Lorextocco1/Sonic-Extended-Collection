@@ -20,7 +20,7 @@ Passaggio 1: Estraete lo ZIP e posizionate la cartella Sonic Extended Collection
 
 Passaggio 2: Scaricate le dipendenze:
 
-. RetroArch AppImage: Sito Ufficiale RetroArch (Sezione Download -> Scaricate l'ultima versione base, non la QT).
+. RetroArch AppImage: [Sito Ufficiale RetroArch](https://www.retroarch.com/?page=platforms) (Sezione Download -> Scaricate l'ultima versione base, non la QT).
 
 . Estraete il pacchetto .7z, aprite la cartella estratta e troverete l'eseguibile AppImage e la cartella di configurazione standard.
 
@@ -42,7 +42,7 @@ Aggiungere altri giochi Steam: Copiate un file .sh esistente in una nuova sottoc
 
 . Per trovare l'AppID: Steam -> Libreria -> Tasto destro sul gioco -> Proprietà -> Aggiornamenti. Incollate il codice numerico nel file .sh al posto dei due codici esistenti.
 
-. Per l'estetica: Nel Launcher, premete Start (o tasto destro) sul gioco -> Impostazioni -> Sfoglia "Script Launcher SH alternativo" -> selezionate il file .sh creato. Per le copertine, consiglio: SteamGridDB.
+. Per l'estetica: Nel Launcher, premete Start (o tasto destro) sul gioco -> Impostazioni -> Sfoglia "Script Launcher SH alternativo" -> selezionate il file .sh creato. Per le copertine, consiglio: [SteamGridDB](https://www.steamgriddb.com/).
 
 Configurazione Emulatori (Core)
 
@@ -67,13 +67,13 @@ ________________________________________________________________________________
 🌟 Fan Game Relativi
 La community di Sonic ha compiuto veri miracoli. Ecco i progetti che consiglio caldamente:
 
-. Sonic Omens (by BOLT_): Un gioco completo con una qualità pari ai pilastri della saga. Trama a doppio filone tra Sonic/Tails e Shadow. Link al Canale BOLT_
+. Sonic Omens (by BOLT_): Un gioco completo con una qualità pari ai pilastri della saga. Trama a doppio filone tra Sonic/Tails e Shadow. [Link al Canale BOLT_](https://gamejolt.com/games/SonicOmens/469351)
 
-. Sonic Adventure 2 Redux (by JeliLiam): Un remake in Unreal Engine 5 che riporta in auge gli stage iconici di SA2 con una veste grafica moderna. Link al Progetto JeliLiam
+. Sonic Adventure 2 Redux (by JeliLiam): Un remake in Unreal Engine 5 che riporta in auge gli stage iconici di SA2 con una veste grafica moderna. [Link al Progetto JeliLiam](https://gamejolt.com/games/SA2R/939490)
 
-. Project Reignition (by Kuma-Boo): Una remastered di Sonic e gli Anelli Segreti che corregge i controlli legnosi del Wiimote adattandoli al joystick e migliora la grafica. Link al GitHub Project Reignition
+. Project Reignition (by Kuma-Boo): Una remastered di Sonic e gli Anelli Segreti che corregge i controlli legnosi del Wiimote adattandoli al joystick e migliora la grafica. [Link al GitHub Project Reignition](https://github.com/Kuma-Boo/project-reignition)
 
-. Sonic Adventure Italian Mod (STB): Più di una traduzione; un restauro completo che riporta il gioco allo splendore dell'originale Dreamcast con bug fix e modelli migliorati. Sito Ufficiale STB
+. Sonic Adventure Italian Mod (STB): Più di una traduzione; un restauro completo che riporta il gioco allo splendore dell'originale Dreamcast con bug fix e modelli migliorati. [Sito Ufficiale STB](https://www.youtube.com/@stb_ita) [Sonic Adventure Italian Mod](https://gamebanana.com/mods/339366).
 _________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 🏆 Credits
 . SEGA: Per averci permesso di sognare con le loro opere per tutti questi anni.
