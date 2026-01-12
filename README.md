@@ -78,13 +78,13 @@ ________________________________________________________________________________
 🏆 Credits
 . SEGA: Per averci permesso di sognare con le loro opere per tutti questi anni.
 
-. Nibroc-Rock: L'artista dietro gli splendidi artwork della copertina. Il suo stile emula perfettamente quello ufficiale SEGA. Profilo DeviantArt Nibroc-Rock
+. Nibroc-Rock: L'artista dietro gli splendidi artwork della copertina. Il suo stile emula perfettamente quello ufficiale SEGA. [Profilo DeviantArt Nibroc-Rock](https://www.deviantart.com/nibroc-rock)
 
-. Seven Soul: Un incredibile canale YouTube che realizza remix Rock/Heavy Metal delle OST di Sonic. Canale YouTube Seven Soul
+. Seven Soul: Un incredibile canale YouTube che realizza remix Rock/Heavy Metal delle OST di Sonic. [Canale YouTube Severed Soul](https://www.youtube.com/@SeveredSoul-44)
 
 . Consiglio: Mettete i suoi MP3 nella cartella ost del Launcher per averli come musica di sottofondo!
 
-. Unleashed Recompiled: Compilatore essenziale per giocare a Sonic Unleashed su PC (richiede backup Xbox 360). GitHub Unleashed Recompiled
+. Unleashed Recompiled: Compilatore essenziale per giocare a Sonic Unleashed su PC (richiede backup Xbox 360). [GitHub Unleashed Recompiled](https://github.com/hedge-dev/UnleashedRecomp)
 
 . Sonic Forces Overclocked: Una mod massiccia che riscrive interamente Sonic Forces con nuovi boss, stage e una storia ambientata dopo il finale ufficiale.
 _________________________________________________________________________________________________________________________________________________________________________________________________________________________________
