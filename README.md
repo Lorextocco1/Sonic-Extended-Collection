@@ -63,6 +63,30 @@ Aprite RetroArch dall'eseguibile base (non dal launcher) e scaricate i seguenti 
 Formati ROM supportati: I file devono essere rinominati esattamente come la cartella che li ospita.
 
 GBA: .gba | Genesis: .md | GameCube: .iso | Dreamcast: .chd | Wii: .rvz | 3DS: .3ds | DS: .nds
+
+Configurazione della Home di RetroArch
+
+Nella cartella principale (home) del Launcher, troverai una cartella chiamata config. Per una corretta installazione, segui questi passaggi:
+
+1. Clicca con il tasto destro sulla cartella config e seleziona Taglia.
+
+2. Naviga nel percorso: retroarch/RetroArch-Linux-x86_64.AppImage.home/.config/retroarch.
+
+3. Clicca con il tasto destro in un punto vuoto e seleziona Incolla.
+
+4. Se il sistema ti chiede di sovrascrivere o sostituire i file esistenti, conferma e procedi con la sostituzione.
+
+Come aggiungere il Launcher al Drawer delle Applicazioni
+
+A causa della struttura specifica delle cartelle e della dipendenza dall'AppImage, il Launcher non apparirà automaticamente nel menu delle applicazioni del tuo sistema. Se desideri averlo nel Drawer come una normale App, segui questi passaggi:
+
+1. Vai nella cartella Sonic Extended Collection e copia tutto il suo contenuto.
+
+2. Naviga nella tua Home utente, individua la cartella denominata Applications (o AppImages, a seconda della tua distro) e incolla tutto lì dentro.
+
+3. Una volta fatto, il Launcher apparirà nel drawer come una normale applicazione.
+
+Nota bene: Ricorda che, dopo questa operazione, i tuoi dati e i file di gioco risiederanno stabilmente in quella cartella di sistema e non più nella cartella originale del download. Se per te non è fondamentale avere l'icona nel drawer, puoi tranquillamente continuare ad avviare il tool facendo doppio clic sul file eseguibile direttamente dalla cartella della Collection.
 _________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 🌟 Fan Game Relativi
 La community di Sonic ha compiuto veri miracoli. Ecco i progetti che consiglio caldamente:
