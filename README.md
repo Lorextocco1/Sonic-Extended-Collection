@@ -87,6 +87,18 @@ A causa della struttura specifica delle cartelle e della dipendenza dall'AppImag
 3. Una volta fatto, il Launcher apparirà nel drawer come una normale applicazione.
 
 Nota bene: Ricorda che, dopo questa operazione, i tuoi dati e i file di gioco risiederanno stabilmente in quella cartella di sistema e non più nella cartella originale del download. Se per te non è fondamentale avere l'icona nel drawer, puoi tranquillamente continuare ad avviare il tool facendo doppio clic sul file eseguibile direttamente dalla cartella della Collection.
+
+Nota sui titoli GameCube
+
+Durante i test sui giochi per GameCube, ho riscontrato alcuni problemi grafici che non è stato possibile risolvere definitivamente. Per questo motivo, ho lasciato la configurazione del Core completamente modificabile, permettendovi di intervenire manualmente.
+
+Avrei voluto risparmiarvi questa scocciatura, ma posso assicurarvi che provare a sistemarli non è difficile:
+
+1. Caricate il gioco e aprite le Impostazioni del Core.
+
+2. Sperimentate con i vari settaggi grafici finché non trovate la resa ottimale.
+
+3. Attenzione: Ricordatevi di selezionare l'opzione "Salva configurazione per singolo gioco", così non rischierete di rovinare i settaggi degli altri titoli della collezione.
 _________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 🌟 Fan Game Relativi
 La community di Sonic ha compiuto veri miracoli. Ecco i progetti che consiglio caldamente:
