@@ -123,5 +123,19 @@ ________________________________________________________________________________
 . Unleashed Recompiled: Compilatore essenziale per giocare a Sonic Unleashed su PC (richiede backup Xbox 360). [GitHub Unleashed Recompiled](https://github.com/hedge-dev/UnleashedRecomp)
 
 . Sonic Forces Overclocked: Una mod massiccia che riscrive interamente Sonic Forces con nuovi boss, stage e una storia ambientata dopo il finale ufficiale.
-_________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+🛠️ Messaggio per gli Sviluppatori (Open Source & Derivati)
+
+In genere, per i miei progetti, richiedo semplicemente di essere citato nei video e nelle pagine ufficiali. Con la Sonic Extended Collection voglio fare di più: non solo vi do la mia approvazione, ma vi incito a sperimentare partendo da questa base.
+
+Il motore e la struttura di questo Launcher sono così flessibili che, cambiando colori, texture e testi, potete trasformarlo ufficialmente in un Launcher dedicato a qualsiasi altra saga, come Dragon Ball o Pokémon. Sbizzarritevi!
+
+Le mie uniche condizioni per i progetti derivati sono:
+
+1. Citazione Ufficiale: Ricordate di citarmi nella pagina del vostro progetto (GitHub o altro), specificando chiaramente che si tratta di un "derivato del progetto Sonic Extended Collection creato da LorexTheGamer".
+
+2. Video Promozionali: Se realizzate video per promuovere il vostro lavoro, vi chiedo di citarmi vocalmente e di inserire i credits nella descrizione del video.
+
+Buoni esperimenti a tutti! Spero che questo tool possa essere utile alla vostra creatività tanto quanto lo è stato per me.
+________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 Grazie alla community che continua a rivoluzionare e preservare l'universo di Sonic. Buon divertimento!
