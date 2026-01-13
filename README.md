@@ -1,6 +1,8 @@
 🦔 Sonic Extended Collection
 
-hq720.png
+<div align="center">
+  <img src="hq720.png" alt="Sonic Extended Collection" width="700">
+</div>
 
 Il Main del Progetto
 
