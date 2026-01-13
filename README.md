@@ -115,6 +115,24 @@ La community di Sonic ha compiuto veri miracoli. Ecco i progetti che consiglio c
 
 . Sonic Adventure Italian Mod (STB): Più di una traduzione; un restauro completo che riporta il gioco allo splendore dell'originale Dreamcast con bug fix e modelli migliorati. [Sito Ufficiale STB](https://www.youtube.com/@stb_ita) [Sonic Adventure Italian Mod](https://gamebanana.com/mods/339366).
 _________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+🎁 Pack Aggiuntivo: Artwork & Asset
+
+Per rendere l'esperienza con la Sonic Extended Collection ancora più immersiva, ho creato un pacchetto aggiuntivo che include gli artwork dei vari titoli e tutti gli elementi grafici che ho utilizzato per comporre la copertina originale del progetto.
+
+Nota importante: Gli artwork originali dell'autore di DeviantArt non sono stati inclusi direttamente per rispetto del suo lavoro; tuttavia, potrete trovarli e ammirarli nel suo repository ufficiale indicato nella sezione Credits.
+
+🔐 Accesso al Pack (Password)
+
+Il file è protetto da una password, ma sono certo che chi, come me, segue Sonic e il suo mondo da tempo, saprà trovare la risposta in un istante:
+
+Indovinello: "Qual è il trauma di Shadow the Hedgehog?"
+
+. Password: La risposta (una sola parola, tutto in minuscolo).
+
+. Contenuto: Icone, sfondi personalizzati e asset grafici per il Launcher.
+
+[Sonic extended collection extra pack](https://drive.google.com/file/d/1qq6ZS3esj_XM-f0s346OdQ2TOMXRcG46/view?pli=1)
+_________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 🏆 Credits
 . SEGA: Per averci permesso di sognare con le loro opere per tutti questi anni.
 
