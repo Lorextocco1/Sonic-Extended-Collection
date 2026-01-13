@@ -1,5 +1,7 @@
 🦔 Sonic Extended Collection
+
 hq720.png
+
 Il Main del Progetto
 
 La carriera videoludica di Sonic ha attraversato svariate console di ogni epoca, ma non tutti i titoli sono facilmente reperibili per PC Linux. È qui che entra in gioco il mio Launcher: non è un semplice Steam o Emulation Station alternativo, ma una vera e propria Bibbia della carriera del nostro porcospino preferito.
